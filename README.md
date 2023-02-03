@@ -1,10 +1,10 @@
 # ggr472-lab1
 GGR472 Lab 1 
 
-**Summary**
+**Summary:**
 This repository develops a two page website that embeds GIFS, a GeoJSON file (in code form) and links to external sources. Specifically, the GeoJSON file is investigating sandwich and park locations around Toronto.  
 
-**Subject Matter**
+**Subject Matter:**
 Sandwiches, Toronto, Parks 
 
 **Code Sources**
